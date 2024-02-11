@@ -1,0 +1,14 @@
+/home/user/Documents/coba/bin/Debug/net8.0/coba
+/home/user/Documents/coba/bin/Debug/net8.0/coba.deps.json
+/home/user/Documents/coba/bin/Debug/net8.0/coba.runtimeconfig.json
+/home/user/Documents/coba/bin/Debug/net8.0/coba.dll
+/home/user/Documents/coba/bin/Debug/net8.0/coba.pdb
+/home/user/Documents/coba/obj/Debug/net8.0/coba.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/coba/obj/Debug/net8.0/coba.AssemblyInfoInputs.cache
+/home/user/Documents/coba/obj/Debug/net8.0/coba.AssemblyInfo.cs
+/home/user/Documents/coba/obj/Debug/net8.0/coba.csproj.CoreCompileInputs.cache
+/home/user/Documents/coba/obj/Debug/net8.0/coba.dll
+/home/user/Documents/coba/obj/Debug/net8.0/refint/coba.dll
+/home/user/Documents/coba/obj/Debug/net8.0/coba.pdb
+/home/user/Documents/coba/obj/Debug/net8.0/coba.genruntimeconfig.cache
+/home/user/Documents/coba/obj/Debug/net8.0/ref/coba.dll
